@@ -1,6 +1,6 @@
 # flaky-test-cypress
 
-[build repo]
+update
 
 > The Flaky Test Challenge
 
